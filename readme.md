@@ -68,12 +68,21 @@ print(f"number of qubits: {backend.num_qubits}")
 \
 Then run the code by clicking the side play button of the cell\
 \
+Click on first option\
+\
 <img src="vs1.jpg" alt="drawing" width="500"/>\
+\
+Let it complete and fade out\
 \
 <img src="vs2.jpg" alt="drawing" width="500"/>\
 \
-<img src="vs3.jpg" alt="drawing" width="500"/>
-
+Click on first option\
+\
+<img src="vs3.jpg" alt="drawing" width="500"/>\
+\
+and again Click on first option for Python 3.13\
+\
+Now you can code seamlessy 
 #
 Task accomplished!!!
 #
